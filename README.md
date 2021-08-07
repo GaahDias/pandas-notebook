@@ -3,5 +3,5 @@
 The notebook for my pandas studies. I'm currently reading the [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/index.html), and trying to learn this amazing python library.
 
 <center>
-  <img src="images/Panda.png" width=600px>
+  <img src="images/Panda.png" width=545px>
 </center>
